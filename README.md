@@ -1,4 +1,4 @@
-# Travel Journal <sub><sup>(Scrimba React Course Project 4 - solo project :) )</sup></sub>
+# Travel Journal <sub><sup>(Scrimba React Course Project 4 - solo project )</sup></sub>
 
 Requirements: 
 - Build a Travel Journal using React designed like this <a href="https://www.figma.com/file/QG4cOExkdbIbhSfWJhs2gs/Travel-Journal?node-id=0%3A1">Figma file</a>
