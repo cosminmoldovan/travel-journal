@@ -5,7 +5,7 @@ function Navbar(){
         <nav className="nav">
             <div className="logo">
                 <img src={logo} alt="logo" className="logo-img"/>
-                <spa className="logo-text">my travel journal.</spa>
+                <span className="logo-text">my travel journal.</span>
             </div>
 
         </nav>

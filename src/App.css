@@ -29,10 +29,11 @@ body{
   margin-right: 8px;
 }
 .card-list{
-  padding: 100px 40px;
+  padding: 60px 40px;
   display: flex;
   flex-direction: column;
   align-items: center;
+  gap: 40px;
 }
 .card{
   display: flex;
@@ -56,7 +57,7 @@ body{
   letter-spacing: 0.17em;
   margin-right: 10px;
 }
-.location > svg{
+.location > img{
   margin-right: 4px;
 }
 .google-maps-url{
