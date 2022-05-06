@@ -5,7 +5,8 @@
   box-sizing: border-box;
 }
 body{
-  font-family: 'Inter', sans-serif;;
+  font-family: 'Inter', sans-serif;
+  color: #2B283A;
 }
 .App{
 
@@ -26,4 +27,53 @@ body{
 }
 .logo-img{
   margin-right: 8px;
+}
+.card-list{
+  padding: 100px 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.card{
+  display: flex;
+  gap:20px;
+  align-items: center;
+}
+.card-img{
+  height: 168px;
+  width: 125px;
+  background-color: red;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  border-radius: 5px;
+}
+.card-location{
+  font-size: 10px;
+}
+.location{
+  text-transform: uppercase;
+  letter-spacing: 0.17em;
+  margin-right: 10px;
+}
+.location > svg{
+  margin-right: 4px;
+}
+.google-maps-url{
+  color: #918E9B;
+}
+.card-title{
+  font-size: 25px;
+  font-weight: 700;
+  margin: 8px 0 16px 0;
+}
+.card-date{
+  font-size: 10px;
+  font-weight: 700;
+}
+.card-description{
+  width: 320px;
+  margin-top: 4px;
+  font-size: 10px;
+  line-height: 1.5;
 }
